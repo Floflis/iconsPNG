@@ -1,0 +1,2 @@
+de-duplicate more icons in apps
+de-duplicate all icons
