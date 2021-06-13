@@ -1,2 +1,10 @@
 de-duplicate more icons in apps
+/usr/share/icons/Floflis/256x256@2x/actions /usr/share/icons/Floflis/256x256@2x/emblems /usr/share/icons/Floflis/256x256@2x/status
+/usr/share/icons/Floflis/256x256@2x/categories
+/usr/share/icons/Floflis/256x256@2x/devices
+/usr/share/icons/Floflis/256x256@2x/mimetypes
+/usr/share/icons/Floflis/256x256@2x/places
 de-duplicate all icons
+cross-folder symlink icons
+symlink icons from Yaru
+install Yaru as dependence, if not installed
