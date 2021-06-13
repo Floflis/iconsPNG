@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Yaru
-Comment=A desktop adaptation of the Ubuntu mobile icons.
-Inherits=Humanity,hicolor
+Name=Floflis
+Comment=Evolution of the Ubuntu's Yaru icon theme, which is "A desktop adaptation of the Ubuntu mobile icons".
+Inherits=Humanity,hicolor,Yaru
 Example=folder
 
 # Directory list
