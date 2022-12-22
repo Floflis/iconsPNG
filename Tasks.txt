@@ -1,3 +1,9 @@
+mark commit point to restore Floflis 19 Ubuntu 20's icons
+-
+keep Ubuntu 22 icons for: executable, .exe executable, energy symbolic icons, gnome soundrec, 
+rebase on Ubuntu 22 icons: .zip, .7z, explorer 16x16 icons, terminal 16x16 icon, computer 16x16 icon, characters icon, games icons
+revert icons for: transmission, 
+
 de-duplicate more icons in apps
 cross-folder symlink icons (symlink icons from Yaru /usr/share/icons/Floflis/256x256@2x/apps/yaru)
 /usr/share/icons/Floflis/256x256@2x/actions /usr/share/icons/Floflis/256x256@2x/emblems /usr/share/icons/Floflis/256x256@2x/status
