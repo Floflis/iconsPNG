@@ -1,3 +1,7 @@
+commit latest changes: move SVG icons to the Floflis-to-merge icon theme
+remove PNG icons that already have their SVG version
+remove floflis/plasmmer apps icons and let them be installed by their own apps
+
 mark commit point to restore Floflis 19 Ubuntu 20's icons
 -
 keep Ubuntu 22 icons for: executable, .exe executable, energy symbolic icons, gnome soundrec, 
